@@ -1,0 +1,9 @@
+{
+    "retries": {
+      "runMode": 1,
+      "openMode": 0
+    },
+    "projectId": "dunzoweb",
+    "reporter":  "mochawesome",
+    "testFiles": "**/*.js"
+  }
